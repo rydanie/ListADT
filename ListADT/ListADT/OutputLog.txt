@@ -1,0 +1,39 @@
+Choose an action by pressing the number for the action (1,2,3...):
+(1)Check if List is Empty
+(2)Check List Size
+(3)Get an Element from the List
+(4)Set and ELement in the List
+(5)Add and Element to the List
+(6)Remove an Element from the List
+(7)Exit the Program
+
+Choice5
+The new size of the list is 1
+Number of steps taken to complete action 25
+Add at which index in the list? (0,1,2,3...)
+0
+Value for this index in the list? (0,1,2,3...)
+1
+Current List: 1; 
+Choice5
+The new size of the list is 2
+Number of steps taken to complete action 25
+Add at which index in the list? (0,1,2,3...)
+1
+Value for this index in the list? (0,1,2,3...)
+234
+Current List: 1; 234; 
+Choice5
+The new size of the list is 3
+Number of steps taken to complete action 33
+Add at which index in the list? (0,1,2,3...)
+1
+Value for this index in the list? (0,1,2,3...)
+34543
+Current List: 1; 34543; 234; 
+Choice6
+The element you removed is 1 at index 0 The size of the list is now 2
+Number of steps taken to complete action 42
+Remove at which index in the list? (0,1,2,3...)
+0
+Current List: 34543; 234; 
